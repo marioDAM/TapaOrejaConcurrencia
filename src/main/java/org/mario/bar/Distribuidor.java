@@ -1,4 +1,4 @@
-package org.adrianl.bar;
+package org.mario.bar;
 
 import java.util.ArrayList;
 import java.util.List;

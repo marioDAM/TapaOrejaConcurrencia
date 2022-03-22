@@ -1,4 +1,4 @@
-package org.adrianl.bar;
+package org.mario.bar;
 
 public class Plato {
 
